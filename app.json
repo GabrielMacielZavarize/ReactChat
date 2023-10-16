@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ChatCerto",
+    "slug": "ChatCerto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/CimaLogo.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/CimaLogo.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/CimaLogo.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/CimaLogo.jpg"
+    }
+  }
+}
